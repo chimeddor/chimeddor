@@ -7,7 +7,7 @@
   
   
 <br />
-<h2>개발하는 언어</h2>
+<h2>개발 언어</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
