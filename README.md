@@ -1,7 +1,7 @@
  <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey! 제 깃허브 방문을 환영합니다.
  <img align="right" src="https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-9/201776013_998987050640964_1014377721575552453_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=174925&_nc_ohc=h9KSUrS7eJAAX_EYK1T&_nc_ht=scontent-ssn1-1.xx&oh=00_AT-N6xmZjpi3eXIuhzHsNNPS-URZY5Xq1Njyk3Nxnqcymg&oe=628E97F2" width="300"/></h2> 
 
-<label style="font-size=10px;">저는 CHIMEDDORJ입니다. 데이터 분석 및 개발합니다. 저는 몽골 사람이며 현위치는 South Korea입니다.</label>
+<label style="font-size=10px;">저는 CHIMEDDORJ입니다. 데이터 분석 및 개발합니다. 몽골 사람이며 현위치는 South Korea입니다.</label>
 <br/>
 <h2>개발 언어 및 기술 </h2>
 
