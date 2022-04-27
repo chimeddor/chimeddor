@@ -17,4 +17,4 @@
 ![PHP](https://img.shields.io/badge/MYSQL-3776AB.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
-운영하고 있는 유투브 채널: <a style="text-decoration-line: none" target="_blank" href="https://www.youtube.com/channel/UCp6k7NFx91ccB0ahUCpq3xw">개발자 새끼손가락 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCp6k7NFx91ccB0ahUCpq3xw?color=Red&label=YouTube&logo=Youtube&logoColor=RED&style=social"></a> 
+운영하는 유투브 채널: <a style="text-decoration-line: none" target="_blank" href="https://www.youtube.com/channel/UCp6k7NFx91ccB0ahUCpq3xw">개발자 새끼손가락 <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCp6k7NFx91ccB0ahUCpq3xw?color=Red&label=YouTube&logo=Youtube&logoColor=RED&style=social"></a> 
