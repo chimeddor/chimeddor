@@ -5,7 +5,7 @@
 <br />
 
 <h2></h2>
-![HTML5]
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5logoColor=ffffff)
 ![CSS3]
 ![JAVASCRIPT]
 ![Python]
