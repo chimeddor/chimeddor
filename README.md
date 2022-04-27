@@ -16,9 +16,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
 <br/>
-<br/>
 <img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-<br />
 <br />
 <h2>저와 연락할 수 있습니다 </h2>
 
