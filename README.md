@@ -3,7 +3,7 @@
 
 <p>저는 CHIMEDDORJ입니다. 데이터 분석 및 개발합니다. 몽골 사람이며 현위치는 South Korea입니다.</p>
 
-![Capture](https://user-images.githubusercontent.com/53028417/165491494-99875915-668e-44ad-ad0e-fcda15899dad.JPG)
+![a](https://user-images.githubusercontent.com/53028417/165491873-c4b53dbc-f20b-4965-94c9-190e485adf89.JPG)
 
 <h2>개발 언어 및 기술 </h2>
 
