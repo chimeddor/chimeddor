@@ -3,8 +3,7 @@
 
 <p>I'm Chimeddorj, data analyst and developer from Mongolia, currently living in South Korea <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiL0Z9m37Ff1eNf4TycK2bLwJh0Dgm4UrKOoaQBAw4G1zKe_89EmTvZIAc-J41WjfnwE&usqp=CAU" width=20/></p>
 
-/*![Capture](https://user-images.githubusercontent.com/53028417/165496934-3ccbbec3-ad37-4cdc-86c8-fb55c2ad260f.JPG)*/
-![github](https://user-images.githubusercontent.com/53028417/175224730-089b8480-485c-483f-9250-bf1e8e740ba6.JPG)
+![github_taniltsuulga2](https://user-images.githubusercontent.com/53028417/175226673-5c1e1aaa-cd11-4163-aea3-d1733281f79c.JPG)
 
 <h2>languages and tools</h2>
 
