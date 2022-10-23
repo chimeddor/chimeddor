@@ -3,7 +3,7 @@
 
 <p>I'm Chimeddorj, currently living in South Korea <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiL0Z9m37Ff1eNf4TycK2bLwJh0Dgm4UrKOoaQBAw4G1zKe_89EmTvZIAc-J41WjfnwE&usqp=CAU" width=20/> <img src="https://m.media-amazon.com/images/I/61+RIMq+iyL._AC_SL1500_.jpg" width=27 heigth=98/></p>
 
-![github_taniltsuulga2](https://user-images.githubusercontent.com/53028417/175226673-5c1e1aaa-cd11-4163-aea3-d1733281f79c.JPG)
+![github](https://user-images.githubusercontent.com/53028417/197384575-ef7c17c1-38fc-4809-b0ae-c4d83ea085ee.jpeg)
 
 <h2>languages and tools</h2>
 
