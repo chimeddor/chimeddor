@@ -13,8 +13,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
 ![MYSQL](https://img.shields.io/badge/MYSQL-3776AB.svg?&style=for-the-badge&logo=MYSQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-007ACC?style=for-the-badge&logo=Kubernetes&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
+![GNN](https://img.shields.io/badge/GNN-gray.svg?&style=for-the-badge&logo=GNN&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-gray.svg?&style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-white.svg?&style=for-the-badge&logo=GNNL&logoColor=white)
+
+
+
 
 <br />
 <h2>Where to find me</h2>
