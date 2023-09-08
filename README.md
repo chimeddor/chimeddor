@@ -16,8 +16,6 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-007ACC?style=for-the-badge&logo=Kubernetes&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=ffffff)
 
-<br/>
-<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <br />
 <h2>Where to find me</h2>
 
