@@ -3,8 +3,6 @@
 
 <p>I'm Chimeddorj, currently living in South Korea </p>
 
-![github](https://user-images.githubusercontent.com/53028417/197384575-ef7c17c1-38fc-4809-b0ae-c4d83ea085ee.jpeg)
-
 <h2>languages and tools</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
