@@ -3,7 +3,7 @@
 
 <p>I'm Chimeddorj, currently living in South Korea </p>
 
-<h2>languages and others</h2>
+<h2>Skills</h2>
 <span>- Python</span> <br>
 <span>- PHP</span> <br>
 <span>- Django</span> <br>
