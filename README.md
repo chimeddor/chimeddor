@@ -9,7 +9,8 @@
 <span>- Django</span> <br>
 <span>- MySQL</span> <br>
 <span>- PostgreSQL</span> <br>
-<span>- TensorFlow</span>
+<span>- TensorFlow</span> <br>
+<span>- Pytorch</span> <br>
 
 <br />
 <h2>Where to find me</h2>
