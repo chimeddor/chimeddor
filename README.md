@@ -1,7 +1,7 @@
  <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey! Nice to see you.
  </h2> 
 
-<p>I'm Chimeddorj, currently living in South Korea <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThiL0Z9m37Ff1eNf4TycK2bLwJh0Dgm4UrKOoaQBAw4G1zKe_89EmTvZIAc-J41WjfnwE&usqp=CAU" width=20/> <img src="https://m.media-amazon.com/images/I/61+RIMq+iyL._AC_SL1500_.jpg" width=27 heigth=98/></p>
+<p>I'm Chimeddorj, currently living in South Korea </p>
 
 ![github](https://user-images.githubusercontent.com/53028417/197384575-ef7c17c1-38fc-4809-b0ae-c4d83ea085ee.jpeg)
 
