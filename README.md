@@ -13,5 +13,16 @@
 <span>- Pytorch</span> <br>
 
 <br />
-<h2>Where to find me</h2>
-<a href="[https://www.youtube.com/channel/UCp6k7NFx91ccB0ahUCpq3xw](https://www.youtube.com/channel/UCp6k7NFx91ccB0ahUCpq3xw)">![YouTube](https://img.shields.io/youtube/channel/UCp6k7NFx91ccB0ahUCpq3xw?&label=Youtube&logo=youtube&logoColor=red&style=for-the-badge)</a>
+<h2>Contacts</h2>
+<a href="mailto:chimeddorj201@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-f00707?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+</a>
+<br>
+<a href="mailto:chimeddorj@naver.com">
+ <img src="https://img.shields.io/badge/Naver-00707?style=for-the-badge&logo=naver&logoColor=white" target="_blank"/>
+</a>
+<h2>My Channel</h2>
+<a href="https://www.youtube.com/channel/UCp6k7NFx91ccB0ahUCpq3xw">
+ <img src="https://img.shields.io/badge/Youtube-f00707?style=for-the-badge&logo=Youtube&logoColor=white" target="_blank"/>
+</a>
+
