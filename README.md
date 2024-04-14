@@ -23,6 +23,6 @@
 </a>
 <h2>My Channel</h2>
 <a href="https://www.youtube.com/channel/UCp6k7NFx91ccB0ahUCpq3xw" target="_blank">
- <img src="https://img.shields.io/badge/Youtube-f00707?style=for-the-badge&logo=Youtube&logoColor=white" />
+ <img src="https://img.shields.io/badge/Youtube-bf1515?style=for-the-badge&logo=Youtube&logoColor=white" />
 </a>
 
