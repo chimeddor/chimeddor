@@ -3,19 +3,22 @@
 
 <p>I'm Chimeddorj, currently living in South Korea </p>
 
-<h2>Skills</h2>
-<span>- Python</span> <br>
-<span>- PHP</span> <br>
-<span>- Django</span> <br>
-<span>- MySQL</span> <br>
-<span>- PostgreSQL</span> <br>
-<span>- TensorFlow</span> <br>
-<span>- Pytorch</span> <br>
+<h2> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Light_bulb_icon.svg/1435px-Light_bulb_icon.svg.png" width="15px"/> Skills</h2>
+<span> • ML </span> <br>
+<span> • Python</span> <br>
+<span> • PHP</span> <br>
+<span> • Django</span> <br>
+<span> • MySQL</span> <br>
+<span> • PostgreSQL</span> <br>
+<span> • TensorFlow</span> <br>
+<span> • GNN(Graph Neural Network) </span>
+
 
 <br />
 <h2>Contacts</h2>
+
 <a href="mailto:chimeddorj201@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-f00707?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
+<img src="https://img.shields.io/badge/Gmail-f00707?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
 </a>
 <br>
 <a href="mailto:chimeddorj@naver.com">
