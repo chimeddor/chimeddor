@@ -1,37 +1,62 @@
- <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey! Nice to see you.
- </h2> 
+# Purevsuren Chimeddorj
 
-<p>I'm Chimeddorj, currently living in South Korea </p>
-논문[paper]-KJC(Korea Journal Central) <a href="https://journal.kci.go.kr/jksci/archive/articleView?artiId=ART003104517"><p>Improving Accuracy of Chapter-level Lecture Video Recommendation System using Keyword Cluster-based Graph Neural Networks</p></a>
+**ML Engineer · Full-stack Developer** — based in South Korea
 
-논문[paper]-RISS<a href="https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=8880060ffec5650bffe0bdc3ef48d419&outLink=K
-               "><p>Graph Neural Network를 활용한 챕터 수준의 강의 동영상 추천 시스템 = Chapter-level lecture video recommendation system using Graph Neural Network</p></a>
+Graph Neural Networks · Recommendation Systems · Computer Vision
 
-논문[paper]-scienceON <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0016835391&fbclid=IwZXh0bgNhZW0CMTEAAR0N098y0pUjimMzz6kju2Mw_rh9xQrOLJjI0Cb3tYyWNDxf6dmER_YOvic_aem_BiH8cKASkCIdlzfZ82PACg#;"><p>Graph Neural Network를 활용한 챕터 수준의 강의 동영상 추천 시스템 = Chapter-level lecture video ,recommendation system using Graph Neural Network</p></a>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chimeddorj201@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:chimeddorj@naver.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCp6k7NFx91ccB0ahUCpq3xw)
 
-<h2> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Light_bulb_icon.svg/1435px-Light_bulb_icon.svg.png" width="15px"/> Skills</h2>
-<span> • ML </span> <br>
-<span> • Python</span> <br>
-<span> • PHP</span> <br>
-<span> • Django</span> <br>
-<span> • MySQL</span> <br>
-<span> • PostgreSQL</span> <br>
-<span> • TensorFlow</span> <br>
-<span> • GNN(Graph Neural Network) </span>
+---
 
+## Research
 
-<br />
-<h2>Contacts</h2>
+**Improving Accuracy of Chapter-level Lecture Video Recommendation System using Keyword Cluster-based Graph Neural Networks**
+Purevsuren Chimeddorj, Doohyun Kim · *Journal of The Korea Society of Computer and Information* (JKSCI), 2024, 29(7), 89–98
 
-<a href="mailto:chimeddorj201@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-f00707?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-</a>
-<br>
-<a href="mailto:chimeddorj@naver.com">
- <img src="https://img.shields.io/badge/Naver-00707?style=for-the-badge&logo=naver&logoColor=white" target="_blank"/>
-</a>
-<h2>My Channel</h2>
-<a href="https://www.youtube.com/channel/UCp6k7NFx91ccB0ahUCpq3xw" target="_blank">
- <img src="https://img.shields.io/badge/Youtube-bf1515?style=for-the-badge&logo=Youtube&logoColor=white" />
-</a>
+[![DOI](https://img.shields.io/badge/DOI-10.9708%2Fjksci.2024.29.07.089-informational?style=flat-square)](https://doi.org/10.9708/jksci.2024.29.07.089)
+[![KCI](https://img.shields.io/badge/KCI-View-005BAC?style=flat-square)](https://journal.kci.go.kr/jksci/archive/articleView?artiId=ART003104517)
+[![RISS](https://img.shields.io/badge/RISS-View-2E6DB4?style=flat-square)](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=8880060ffec5650bffe0bdc3ef48d419&outLink=K)
+[![ScienceON](https://img.shields.io/badge/ScienceON-View-00A0B0?style=flat-square)](https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0016835391)
 
+**M.S. Thesis** — *Chapter-Level Lecture Video Recommendation System Using Graph Neural Network*
+Konkuk University, 2023
+
+---
+
+## Tech Stack
+
+| | |
+|---|---|
+| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) `GNN` `Clustering` |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+
+---
+
+## Selected Work
+
+| Project | Description |
+|---|---|
+| [**detectron2**](https://github.com/chimeddor/detectron2) | Instance segmentation, object detection and keypoint detection experiments |
+| [**Building a Neural Network with PyTorch**](https://github.com/chimeddor/Building_a_Neural_Network_with_PyTorch) | Handwritten digit recognition — neural network built from the ground up |
+| [**Multi-Dialogflow Chatbot Broker**](https://github.com/chimeddor/Automatic-registration-of-chatbots-for-multi-dialogflow-chatbot-brokers) | Automatic chatbot registration for a multi-Dialogflow broker architecture |
+| [**Docker-based Eco Broker & Server**](https://github.com/chimeddor/Docker-container-based-eco-broker-and-eco-server-program.) | Container-based broker and server program |
+| [**Tsunami Evacuation Locator**](https://github.com/chimeddor/Website-for-locating-tsunami-emergency-evacuation-places) | Web app for locating emergency evacuation sites |
+| [**Homepage**](https://github.com/chimeddor/Homepage) | Homepage built with PHP and MySQL |
+
+<!-- OPTIONAL: 아래 섹션은 private 저장소 기반입니다. 공개하고 싶지 않으면 지우세요.
+## Currently Building
+
+- **Cargo platform** — logistics management system (Node.js · React · PostgreSQL)
+- **Camera Translate** — real-time camera text recognition and translation
+- **Latin ↔ Cyrillic** — Mongolian script converter
+-->
+
+---
+
+<sub>Open to collaboration on recommendation systems, graph learning, and applied computer vision.</sub>
