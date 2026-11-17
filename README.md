@@ -2,7 +2,7 @@
 
 **ML Engineer · Full-stack Developer** — based in South Korea
 
-Graph Neural Networks · Recommendation Systems · Computer Vision
+Graph Neural Networks · Recommendation Systems · Computer Vision · AI Chatbots
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chimeddorj201@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:chimeddorj@naver.com)
