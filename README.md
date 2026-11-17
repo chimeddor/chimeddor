@@ -43,6 +43,7 @@ Konkuk University, 2023
 | Project | Description |
 |---|---|
 | **AI Content Studio** *(private)* | Turns a written prompt into a video, poster, PDF or image |
+| **AI Chatbot Backend** *(private)* | RAG and tool-calling backend for Mongolian-language chatbots |
 | [**detectron2**](https://github.com/chimeddor/detectron2) | Instance segmentation, object detection and keypoint detection |
 | [**Building a Neural Network with PyTorch**](https://github.com/chimeddor/Building_a_Neural_Network_with_PyTorch) | Handwritten digit recognition with a neural network |
 | [**Multi-Dialogflow Chatbot Broker**](https://github.com/chimeddor/Automatic-registration-of-chatbots-for-multi-dialogflow-chatbot-brokers) | Automatic chatbot registration for a multi-Dialogflow broker |
