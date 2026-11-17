@@ -42,6 +42,7 @@ Konkuk University, 2023
 
 | Project | Description |
 |---|---|
+| **AI Content Studio** *(private)* | AI content platform for Mongolian — a written prompt becomes a video, poster, PDF or image, revisable scene by scene or convertible to another format. NestJS API, TypeScript job workers on a Postgres queue, and a sandboxed render pipeline (ffmpeg · Blender · headless Chrome) |
 | [**detectron2**](https://github.com/chimeddor/detectron2) | Instance segmentation, object detection and keypoint detection experiments |
 | [**Building a Neural Network with PyTorch**](https://github.com/chimeddor/Building_a_Neural_Network_with_PyTorch) | Handwritten digit recognition — neural network built from the ground up |
 | [**Multi-Dialogflow Chatbot Broker**](https://github.com/chimeddor/Automatic-registration-of-chatbots-for-multi-dialogflow-chatbot-brokers) | Automatic chatbot registration for a multi-Dialogflow broker architecture |
